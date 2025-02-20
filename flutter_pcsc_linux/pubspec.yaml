@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ffi: ^1.0.0
+  ffi: ^2.1.4
   flutter_pcsc_platform_interface: ^0.0.2
 
 dev_dependencies:
-  ffigen: ^4.0.0
-  flutter_lints: ^1.0.0
+  ffigen: ^17.0.0
+  flutter_lints: ^5.0.0
 
 
 # For information on the generic Dart part of this file, see the
