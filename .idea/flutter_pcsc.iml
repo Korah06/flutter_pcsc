@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_macos/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_pcsc_windows/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
